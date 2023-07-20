@@ -259,7 +259,7 @@ button:active {
     display: flex;
 }
 
-.book:hover .book__img {
+.book__img:hover {
     transform: scale(1.03);
 }
 
